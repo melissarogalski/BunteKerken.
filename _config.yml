@@ -21,13 +21,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 #
 # title of site appears in banner
 title: Bunte Kerken in Europa 
-# tagline, a short phrase that will appear throughout the site in the top banner
+# tagline, a categorization process of medieval churches visited in Europe
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Welcome to our little project – a way of categorizing and sharing the great churches we have visited around Europe."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Melissa & Joshua
 
 ##########
 # COLLECTION SETTINGS
@@ -40,7 +40,7 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+# organization-name: "BunteKerken on Instagram"
 # organization-link: https://cdil.lib.uidaho.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
