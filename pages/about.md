@@ -12,6 +12,8 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+{% include feature/image.html objectid=imagesampleid width="75" %}
+
 ## About us
 
 wir sind critter
