@@ -16,4 +16,4 @@ credits: true
 
 wir sind critter
 
-assets/img/ef315a65-86f9-43a7-b903-772d6842410e.jpeg
+ef315a65-86f9-43a7-b903-772d6842410e.jpeg
